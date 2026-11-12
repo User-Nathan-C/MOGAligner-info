@@ -9,7 +9,7 @@ ordinary 16 GB machine.
 **MOGAligner is under active development and not yet released.** The source code is in a private
 repository for now.
 
-For private developer access in the meantime, email **nathaniellcronin@gmail.com**.
+For private developer access in the meantime, email **nathaniel.l.cronin@postgrad.otago.ac.nz**.
 
 ## In brief
 
