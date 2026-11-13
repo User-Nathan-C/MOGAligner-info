@@ -22,7 +22,7 @@ For private developer access in the meantime, email **nathaniel.l.cronin@postgra
 Benchmarks against minibwa, bwa-mem3, bwa-meth, BISCUIT, Bismark, BSBolt, BSMAP and ARYANA-BS will be
 published with the release.
 
-Sister project: **MEWAligner** (Massively Efficient Workflow Aligner), optimised for AI laptops.
+Sister project: **MEWAligner** (Methylation Efficient Workflow Aligner), optimised for AI laptops.
 
 Claude Code was instrumental in the build and design of MOGAligner.
 
